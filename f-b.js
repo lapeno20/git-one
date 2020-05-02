@@ -1,1 +1,1 @@
-conlose.console.log("f-b");
+conlose.console.log("f-b oder ähnlich");
